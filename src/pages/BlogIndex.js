@@ -33,7 +33,7 @@ export default ({
     {
       project_id: 5,
       imageSrc:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/1200px-TamilNadu_Logo.svg.png",
+          "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2024/07/Tamil-Nadu-government-logo.jpg",
       title: "Construction of Vaigai River North Bank Road",
       location: "Namakkal - Karur Toll Road, Tamil Nadu",
       client: "Tamil Nadu Highways Department ",
@@ -53,7 +53,7 @@ export default ({
     {
       project_id: 5,
       imageSrc:
-          "https://vajiram-prod.s3.ap-south-1.amazonaws.com/National_Highways_Authority_of_India_NHAI_2b16a244df.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQn3vL5T3vw9ZFmXqqI9tU-JgWfPViATY2VQ&s",
       title: "Strengthening of two lanes with paved shoulder.",
       location: "Namakkal - Karur Toll Road, Tamil Nadu",
       client: "Nation Highway Authority of India",
@@ -63,7 +63,7 @@ export default ({
     {
       project_id: 5,
       imageSrc:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/1200px-TamilNadu_Logo.svg.png",
+          "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2024/07/Tamil-Nadu-government-logo.jpg",
       title: "Construction of Grade Separator.",
       location: "Namakkal - Karur Toll Road, Tamil Nadu",
       client: "Tamil Nadu Highways Department",
@@ -73,7 +73,7 @@ export default ({
     {
       project_id: 7,
       imageSrc:
-          "https://vajiram-prod.s3.ap-south-1.amazonaws.com/National_Highways_Authority_of_India_NHAI_2b16a244df.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQn3vL5T3vw9ZFmXqqI9tU-JgWfPViATY2VQ&s",
       title: "Overlay and Repairs in the Stretch",
      
       content: "Madurai – Kanyakumari Section of NH-7",
@@ -89,7 +89,7 @@ export default ({
   },{
     project_id: 5,
     imageSrc:
-        "https://vajiram-prod.s3.ap-south-1.amazonaws.com/National_Highways_Authority_of_India_NHAI_2b16a244df.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQn3vL5T3vw9ZFmXqqI9tU-JgWfPViATY2VQ&s",
     title: "Periodic maintenance along the Namakkal - Karur Toll Road",
     location: "Namakkal - Karur Toll Road, Tamil Nadu",
     client: "Nation Highway Authority of India",
@@ -112,7 +112,7 @@ export default ({
     estimated_cost: "Rs. 63 Cr/-"
   },      {
     project_id: 1,
-    imageSrc:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/440px-TamilNadu_Logo.svg.png",
+    imageSrc:"https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2024/07/Tamil-Nadu-government-logo.jpg",
     title: "Widening from Two Lane to Four Lane and Improvements",
     location: "Tambaram - Mudichur - Sriperumbudur Road",
     client: "Tamil Nadu Highways Department",

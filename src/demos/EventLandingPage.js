@@ -8,7 +8,6 @@ import ContactUsForm from "components/forms/SimpleContactUs.js";
 import Footer from "components/footers/SimpleFiveColumn.js";
 import ProfileThreeColGrid from "components/cards/ProfileThreeColGrid";
 
-
 import BlogIndex from "pages/BlogIndex";
 import ThreeColCenteredStatsPrimaryBackground from "components/features/ThreeColCenteredStatsPrimaryBackground";
 
